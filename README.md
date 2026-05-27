@@ -1,2 +1,2 @@
-# Bel-enie.github.io
+# Bel-enie
 Live data web page
